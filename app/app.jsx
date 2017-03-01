@@ -7,7 +7,7 @@ import About from 'About';
 import Examples from 'Examples';
 
 // Load foundation-sites
-require('css!foundation-sites/dist/foundation.min.css');
+require('style!css!foundation-sites/dist/foundation.min.css');
 $(document).foundation();
 
 ReactDOM.render(
